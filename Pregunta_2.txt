@@ -1,2 +1,0 @@
-Pregunta N°2
-El comando git branch lo que hace es crear, enumerar y eliminar ramas adicionales a la rama main, no te permite moverte entre ramas. Entre otras de sus aplicaciones también permite cambiar de nombre a las ramas, forzar la eliminación de esta.

@@ -1,0 +1,9 @@
+Proceso Llamada_telefónica
+	Escribir 'Programa para calcular el costo de una llamada telefónica'
+	Escribir 'Ingresar el tiempo que dura la llamada telefónica en minutos'
+	Leer t
+	Escribir 'Ingresar el costo por minuto'
+	Leer C
+	C <- C*t
+	Escribir 'El costo de la llamada telefónica es ',C
+FinProceso

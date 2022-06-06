@@ -1,7 +1,7 @@
 Proceso cheque_final
 	Definir numdias como entero;
 	Definir pdhotel, hotelt, pdcomida, comidat, ogastos, ogastost, gasto_total como real;
-	Escribir "Ingrese el n�mero de d�as que dura el viaje:";
+	Escribir "Ingrese el numero de dias que dura el viaje:";
 	Leer numdias;
 	Escribir "Ingrese el precio diario del hotel en el que se aloja (en pesos):";
 	Leer pdhotel;

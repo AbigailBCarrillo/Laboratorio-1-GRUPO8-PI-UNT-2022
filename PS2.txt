@@ -1,0 +1,13 @@
+PROBLEMA N°2
+
+Proceso CALCULAR_POTENCIA_ELECTRICA
+	Escribir  "Este es un programa que te permite calcular la potencia eléctrica"
+	Escribir Sin Saltar "Ingresa la intensidad de corriente"
+	leer I
+	Escribir  Sin Saltar "Ahora ingresa la resistencia"
+	leer R
+	P<-R*I^2 
+	Escribir "La potencia eléctica es ", P " watts"
+FinProceso
+
+

@@ -1,0 +1,6 @@
+Pregunta: Explique qué es git y cuál es la diferencia con GitHub.
+Respuesta: De acuerdo con la página web de git, éste es un sistema de control de versiones de distribución gratuita y código abierto. 
+En otras palabras, tal y como fue explicado en clase, git es un programa que sirve para llevar un manejo eficiente de todas las versiones que vamos creando de nuestro código, de modo que, de ocurrir algún error, podamos volver a la versión anterior de nuestra preferencia ya que queda un registro de ellas.
+
+GitHub, por otro lado, es una plataforma de desarrollo. Es básicamente un lugar de almacenamiento donde podemos crear repositorios para guardar nuestros códigos en la nube.
+También facilita el trabajo colaborativo, puesto que varios programadores pueden colaborar en el mismo repositorio.
